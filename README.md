@@ -1,5 +1,10 @@
 # Field-Detection-in-Satellite-Images
 
+### How it Works?
+1. Place a dot on a farm field that you want to detect.
+2. Run the script.
+3. The model detects and forms an enclosure along the boundaries of the farm field wherever that dot was present.
+
 #### Scrapped Image
 ![Scrapped Image](images/imagee2.png)
 
