@@ -1,4 +1,4 @@
-# Field-Segmentation-in-Satellite-Images
+# Field-Detection-in-Satellite-Images
 
 #### Scrapped Image
 ![Scrapped Image](images/imagee2.png)
