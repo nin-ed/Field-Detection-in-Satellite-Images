@@ -1,1 +1,0 @@
-# Field-Segmentation-in-Satellite-Images
